@@ -113,6 +113,8 @@
 	"accounts_deleted_click_ok_continue{0}": "To delete the following account click OK to proceed. <br>{0}",
 	"accounts_deleted_all_click_ok_continue": "<span class=\"text-danger\">To delete all accounts click OK to continue.</span>",
 	"file_{0}format_{1}size_err": "File format or file size does not meet requirements please select {0} file file max {1}MB",
+	"all": "All",
+	"admin": "Administrator",
 	"errorCode": {
 		"1": "Parameter error",
 		"2": "Database operation failed",
@@ -147,7 +149,8 @@
 		"required": "Required",
 		"compare_required": "Specify the target git a field using the compare property",
 		"two_passwords_not_match": "Two passwords not to match",
-		"alphanumeric_characters_underscores": "Only numbers letters underscores can be used"
+		"alphanumeric_characters_underscores": "Only numbers letters underscores can be used",
+		"email_incorrect": "incorrect mail format"
 	},
 	"oem": {
 		"login_footer": "Copyright© OS-easy Group Holding Ltd.",

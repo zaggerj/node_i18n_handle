@@ -353,7 +353,7 @@
 	"12187": "Failed to create security group rules",
 	"12188": "Failed to delete security group rules",
 	"12207": "You have selected the corresponding allocation method, but you haven't provided the correct subnet. ",
-	"12209": "IPv4 addresse expressed in IPv6 format are not supported.",
+	"12209": "IPv4 addresses expressed in IPv6 format are not supported.",
 	"13001": "Template not ready",
 	"13010": "Create template faild",
 	"13011": "Not detected the specified template in database",
